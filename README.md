@@ -29,6 +29,6 @@ sudo ./update.sh
 
 You may opt to add a [cron](https://en.wikipedia.org/wiki/Cron) job to run the script at a set interval. Add the following line to your `sudo crontab -e` file.
 
-
+```bash
 0 * * * * /bin/bash /path/to/update.sh 2>&1 >> /path/to/update.log
 ```

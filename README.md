@@ -11,6 +11,15 @@ To run this script, copy and paste the following commands into your bash termina
 sudo apt update
 sudo apt install wget
 
+cscli collections install crowdsecurity/base-http-scenarios
+cscli collections install crowdsecurity/http-cve
+cscli collections install crowdsecurity/iptables
+cscli collections install crowdsecurity/linux
+cscli collections install crowdsecurity/linux-lpe
+cscli collections install crowdsecurity/nginx
+cscli collections install crowdsecurity/nginx-proxy-manager
+cscli collections install crowdsecurity/pgsql
+cscli collections install crowdsecurity/sshd
 
 
 # Download Script

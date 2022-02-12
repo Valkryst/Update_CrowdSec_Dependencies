@@ -1,3 +1,5 @@
+The installed collections, and those updated by this script, were chosen specifically for my use cases. You can [search for collections](https://hub.crowdsec.net/), install those you deem necessary, and update the script to upgrade whichever collection(s) you choose.
+
 ## Requirements
 
 To use this script, you must be running [CrowdSec](https://github.com/crowdsecurity/crowdsec) on Linux.
